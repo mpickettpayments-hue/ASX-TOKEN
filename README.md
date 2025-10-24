@@ -4,7 +4,7 @@
 
 **Automatic cryptocurrency reward system for cannabis seed purchases on Base L2**
 
-ASX (ASX Reward Token) is a non-transferable ERC-20 loyalty token that automatically distributes to customers when they purchase cannabis seeds. Customers can vote on business decisions, redeem tokens for merchandise, and participate in tournaments - but cannot sell the tokens on exchanges.
+ASX (ASX Reward Token) is a non-transferable ERC-20 loyalty token that automatically distributes to customers when they purchase cannabis seeds and other retail goods online but we have a strong hold on that market right now. Customers can vote on business decisions, redeem tokens for merchandise, and participate in tournaments - but cannot sell the tokens on exchanges.
 
 ---
 
